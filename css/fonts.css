@@ -1,0 +1,30 @@
+/* font-family: "NexaRustScriptL"; */
+@font-face {
+	font-family: "NexaRustScript";
+	src: url("../fonts/NexaRustScriptL/NexaRustScriptL-0.eot");
+	src: url("../fonts/NexaRustScriptL/NexaRustScriptL-0.eot.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/NexaRustScriptL/NexaRustScriptL-0.woff") format("woff"),
+	url("../fonts/NexaRustScriptL/NexaRustScriptL-0.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "OpenSans"; */
+@font-face {
+	font-family: "OpenSans";
+	src: url("../fonts/OpenSans/OpenSans-Regular.eot");
+	src: url("../fonts/OpenSans/OpenSans-Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/OpenSans/OpenSans.woff") format("woff"),
+	url("../fonts/OpenSans/OpenSans.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "OpenSansLight"; */
+@font-face {
+	font-family: "OpenSansLight";
+	src: url("../fonts/OpenSansLight/OpenSans-Light.eot");
+	src: url("../fonts/OpenSansLight/OpenSans-Light.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/OpenSansLight/OpenSans-Light.woff") format("woff"),
+	url("../fonts/OpenSansLight/OpenSans-Light.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
